@@ -11,6 +11,8 @@ A classic **Snake Game** built using **HTML**, **CSS**, and **JavaScript**. This
 2. Eat the red food to grow longer.
 3. Avoid hitting yourself or the walls.
 4. Your score will be displayed at the top-left.
+   
+![Screenshot 2025-04-19 111515](https://github.com/user-attachments/assets/e230190f-d8bf-4767-a235-96e7cf18c331)
 
 ## 🌐 Live Demo
 [Play the game here](https://varshinipillai.github.io/snake-game/)
